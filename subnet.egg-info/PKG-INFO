@@ -1,7 +1,7 @@
 Metadata-Version: 2.1
 Name: subnet
-Version: 0.0.1
-Summary: A small example package
+Version: 0.0.2
+Summary: A package to subnet ip address for static or dynamic networking.
 Home-page: https://github.com/usamaimdadsian/subnet-pkg
 Author: Usama Imdad
 Author-email: usamaimdadsian@gmail.com
