@@ -5,13 +5,13 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="subnet",
-    version="0.0.2",
+    version="0.0.1",
     author="Usama Imdad",
     author_email="usamaimdadsian@gmail.com",
     description="A small example package",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/usamaimdadsian/subnet",
+    url="https://github.com/usamaimdadsian/subnet-pkg",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
